@@ -337,4 +337,8 @@ footer.second p {
     .one-third {
         width: 100%;
     }
+
+    .social i{
+        font-size: 180%;
+    }
 }
